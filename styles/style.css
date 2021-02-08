@@ -29,7 +29,7 @@
   font-size: 102px;
   font-weight: bold;
   z-index: 2;
-  margin: 0 64px 0;
+  margin: 0 0 0 64px;
   color: #000000;
 }
 .header__subtitle {
@@ -301,7 +301,8 @@
   font-size: 18px;
   font-weight: normal;
   list-style: none;
-  margin-left: 0;
+  margin: 20px 0 0 0;
+  padding-left: 0;
 }
 .footer__column-links_info {
   list-style: none;
