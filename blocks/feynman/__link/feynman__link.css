@@ -7,4 +7,5 @@
   right: 48px;
   color: #2F80ED;
   text-decoration: none;
+  z-index: 3;
 }
