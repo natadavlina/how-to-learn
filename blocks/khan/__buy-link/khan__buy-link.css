@@ -6,4 +6,5 @@
     display: flex;
     margin-left: 48px;
     color: #2F80ED;
+    align-self: flex-start;
 }

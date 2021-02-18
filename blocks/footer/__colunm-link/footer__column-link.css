@@ -7,3 +7,9 @@
   text-decoration: none;
   color: white;
 }
+.footer__column-link::before {
+  width: 16px;
+  height: 16px;
+  padding-right: 10px;
+}
+
